@@ -1,6 +1,6 @@
 ! Title: Kurisu AdGuard Rules
 ! Description: 这是一个 AdGuard 的一点辅助规则，请配合 EasyList 和 EasyList China 使用。理论支持 AdBlock 和 Adblock Plus 。
-! Version: 奇妙开端 v3
+! Version: 无百度的世界，是多么的安静。v4
 ! Expires: 1 days
 
 1.1.1.3###login_tools > li.download
@@ -213,3 +213,22 @@ kuhou.com###bdxza
 web.wechat.com##div.login.ng-scope:nth-child(2) > div.login_box:nth-child(2) > div.qrcode:first-child > div:nth-child(2) > p.sub_desc.ng-scope:last-child
 web.wechat.com##div.login.ng-scope:nth-child(2) > div.lang:nth-child(3) > span.sep.ng-scope:nth-child(2)
 web.wechat.com##div.login.ng-scope:nth-child(2) > div.lang:nth-child(3) > a.ng-scope:first-child
+news.baidu.com###goTop > li.item.qr-code.button-rotate:nth-child(2)
+news.baidu.com###goTop > li.item.favorite.button-rotate:nth-child(4)
+baidu.com###s_kw_wrap
+baidu.com###su
+baidu.com###u_sp > a.mnav:nth-child(3)
+baidu.com###u_sp > a.mnav:nth-child(5)
+baidu.com###s_icons > a.s-lite:nth-child(3)
+baidu.com###s_icons > a.s-msg:nth-child(2)
+baidu.com###bottom_layer
+tieba.baidu.com##div.wrap1:nth-child(5) > div.wrap2 > div.page-container:nth-child(2) > div.main-sec.clearfix:last-child > div.top-sec.clearfix:first-child
+tieba.baidu.com##div.wrap1:nth-child(5) > div.wrap2 > div.page-container:nth-child(2) > div.main-sec.clearfix:last-child > div.content-sec.clearfix:nth-child(3) > div.right-sec.clearfix:last-child > div.r-top-sec:first-child > div.forum_recommend:first-child
+tieba.baidu.com###spage_liveshow_slide
+tieba.baidu.com###right_wrap > div:first-child > div.app_download_box > div.clearfix.app_download_wrap:last-child
+tieba.baidu.com###right_wrap > div:first-child > div.app_download_box > div.item_hd:first-child
+tieba.baidu.com###media_item
+tieba.baidu.com###spage-tbshare-container > div.tbshare_popup_wrapper.popup_vertical.popup_icon_left > div.tbshare_popup_enter:first-child
+tieba.baidu.com###spage-tbshare-container
+tieba.baidu.com###com_userbar > ul:first-child > li.u_member:nth-child(6) > div.u_menu_item.u_menu_member:first-child
+tieba.baidu.com###head > div.head_inner > div.search_top.clearfix:first-child > div.search_nav.j_search_nav > a:first-child
