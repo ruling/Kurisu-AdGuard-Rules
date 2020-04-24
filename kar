@@ -1,6 +1,6 @@
 ! Title: Kurisu AdGuard Rules
-! Description: 这是一个 AdGuard 的一点辅助规则，请配合 EasyList 和 EasyList China 使用。理论支持 ADBlock 和 Adblock Plus 。
-! Version: 0.114514.1919.810
+! Description: 这是一个 AdGuard 的一点辅助规则，请配合 EasyList 和 EasyList China 使用。理论支持 AdBlock 和 Adblock Plus 。
+! Version: 奇妙开端 v3
 ! Expires: 1 days
 
 1.1.1.3###login_tools > li.download
