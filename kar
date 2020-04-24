@@ -1,3 +1,8 @@
+! Title: Kurisu AdGuard Rules
+! Description: 这是一个 AdGuard 的一点辅助规则，请配合 EasyList 和 EasyList China 使用。理论支持 ADBlock 和 Adblock Plus 。
+! Version: 0.114514.1919.810
+! Expires: 1 days
+
 1.1.1.3###login_tools > li.download
 outlook.live.com###app > div.ms-Fabric._2HTFmaDIVHVbnIkwPM9srx.root-42 > div._3KAPMPOz8KsW24ooeUflK2:last-child > div._2jR8Yc0t2ByBbcz_HIGqZ4:first-child > div._1TpU2KF6f_EeQiytBaYj8I:first-child > div._3_hHr3kfEhbNYRFM5YJxH9:last-child
 arealme.com###result_details > a:first-child > img
