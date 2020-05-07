@@ -3,6 +3,10 @@
 
 ## 使用规则：
  AdGuard 设置 > 广告拦截器 > 自定义 > 添加自定义过滤器 > 黏贴链接：https://github.com/kurisucat/Kurisu-AdGuard-Rules/raw/master/kar > 根据您对此规则的信任程度选择“受信任” > 选择“订阅” > 完成。
+ 
+### 为什么无法在中国大陆无法使用 Github 的 RAW 服务？
+目前可能有 GFW 的原因，无解。
+您可以访问 [镜像仓库](https://kurisucat.coding.net/p/AdGuard-Rules/d/AdGuard-Rules/git/tree/master/README.md) 获得一些帮助。
 
 ## 我有点问题：
 先看这篇 [issue](https://github.com/kurisucat/Kurisu-AdGuard-Rules/issues/1) 。
